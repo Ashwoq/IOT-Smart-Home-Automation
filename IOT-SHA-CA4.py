@@ -122,7 +122,7 @@ def handle(msg):
     while True:
         main()
         
-bot = telepot.Bot('6004655891:AAExL2_WbrJxmqnjT0hGtX5M1FtPN1a6ZsY')
+bot = telepot.Bot('REPLACE WITH YOUR BOT TOKEN')
 bot.message_loop(handle)		
    
            
